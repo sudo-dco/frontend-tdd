@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# frontend-tdd-practice
+
+A restaurant reviews app for practicing outside-in TDD
+
+Production: <https://frontend-tdd-practice.netlify.app>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
